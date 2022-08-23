@@ -26,7 +26,7 @@ function App() {
         </div>
       </nav>
       <Routes>
-        <Route path="/" element={
+        <Route exact path={["/", "/antelope"]} element={
         <div>
           <div>Welcome to species viewer !</div>
           <div>Please click on a panel.</div>
