@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/antelope/static/css/main.451b9df3.css",
-    "main.js": "/antelope/static/js/main.c6a04d26.js",
-    "static/js/787.ab2ba85c.chunk.js": "/antelope/static/js/787.ab2ba85c.chunk.js",
-    "index.html": "/antelope/index.html",
-    "main.451b9df3.css.map": "/antelope/static/css/main.451b9df3.css.map",
-    "main.c6a04d26.js.map": "/antelope/static/js/main.c6a04d26.js.map",
-    "787.ab2ba85c.chunk.js.map": "/antelope/static/js/787.ab2ba85c.chunk.js.map"
+    "main.css": "/static/css/main.451b9df3.css",
+    "main.js": "/static/js/main.bf77737d.js",
+    "static/js/787.ab2ba85c.chunk.js": "/static/js/787.ab2ba85c.chunk.js",
+    "index.html": "/index.html",
+    "main.451b9df3.css.map": "/static/css/main.451b9df3.css.map",
+    "main.bf77737d.js.map": "/static/js/main.bf77737d.js.map",
+    "787.ab2ba85c.chunk.js.map": "/static/js/787.ab2ba85c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.451b9df3.css",
-    "static/js/main.c6a04d26.js"
+    "static/js/main.bf77737d.js"
   ]
 }
