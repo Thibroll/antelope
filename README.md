@@ -1,10 +1,3 @@
-
-
-
-The dataset is small => i put it into the src folder.
-As it goes bigger => put it in the public folder and access it partialy with cache.
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
