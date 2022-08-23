@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/antelope/static/css/main.451b9df3.css",
-    "main.js": "/antelope/static/js/main.a23b0e58.js",
+    "main.js": "/antelope/static/js/main.4eff46d8.js",
     "static/js/787.ab2ba85c.chunk.js": "/antelope/static/js/787.ab2ba85c.chunk.js",
     "index.html": "/antelope/index.html",
     "main.451b9df3.css.map": "/antelope/static/css/main.451b9df3.css.map",
-    "main.a23b0e58.js.map": "/antelope/static/js/main.a23b0e58.js.map",
+    "main.4eff46d8.js.map": "/antelope/static/js/main.4eff46d8.js.map",
     "787.ab2ba85c.chunk.js.map": "/antelope/static/js/787.ab2ba85c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.451b9df3.css",
-    "static/js/main.a23b0e58.js"
+    "static/js/main.4eff46d8.js"
   ]
 }
