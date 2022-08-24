@@ -10,29 +10,29 @@ function App() {
     <BrowserRouter>
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className="navbar-nav mr-auto">
-        <Link to={"/"} className="navbar-brand">
+        <Link to={"/antelope"} className="navbar-brand">
             Species viewer
           </Link>
           <li className="nav-item">
-            <Link to={"/graph"} className="nav-link">
+            <Link to={"/antelope/graph"} className="nav-link">
               Graph
             </Link>
           </li>
           <li className="nav-item">
-            <Link to={"/table"} className="nav-link">
+            <Link to={"/antelope/table"} className="nav-link">
               Table
             </Link> 
           </li>
         </div>
       </nav>
       <Routes>
-        <Route path="/" element={
+        <Route path="/antelope" element={
         <div>
           <div>Welcome to species viewer !</div>
           <div>Please click on a panel.</div>
         </div>}></Route>
-        <Route path="/graph" element={<SpeciesBarChart></SpeciesBarChart>}></Route>
-        <Route path="/table" element={<SpeciesTable></SpeciesTable>}></Route>
+        <Route path="/antelope/graph" element={<SpeciesBarChart></SpeciesBarChart>}></Route>
+        <Route path="/antelope/table" element={<SpeciesTable></SpeciesTable>}></Route>
       </Routes>
     </BrowserRouter>
   );
